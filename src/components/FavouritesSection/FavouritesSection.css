@@ -1,0 +1,24 @@
+.favourites-section .spa-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/spa.jpg);
+}
+
+.favourites-section .adventure-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/adventure.jpg);
+}
+
+.favourites-section .pet-friendly-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/pet-friendly.jpg);
+}
+
+.favourites-section .games-div {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.60)), url(../../Assets/Images/games.jpg);
+}
+
+.favourites-section .spa-div,
+.favourites-section .adventure-div,
+.favourites-section .pet-friendly-div,
+.favourites-section .games-div {
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
